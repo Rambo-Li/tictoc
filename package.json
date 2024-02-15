@@ -2,7 +2,7 @@
   "name": "react.dev",
   "version": "0.0.0",
   "main": "/src/index.js",
-  "homepage": "https://rambo-li.github.io/tictoc",
+  "homepage": "https://rambo-li.github.io/tictoc/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
